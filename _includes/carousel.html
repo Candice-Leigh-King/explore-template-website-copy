@@ -1,0 +1,19 @@
+<section class="grid-center carousel-background_color featured-bg">
+  <div class="col-12 padded-bottom" id="{{page.links.carousel}}">
+    <h2>{{item.heading}}</h2>
+  </div>
+
+  <div class=" col-12 padded-sides grid-center one-time">
+    {% for carousel in item.carousel %}
+    <div class="grid-center centered">
+      <div class="col-12-middle padded-review">
+        <hr />
+        <p>{{carousel.textarea}} <br />
+        <span> {{carousel.symbols}} </span>
+        </p>
+        <p class="centered"> {{carousel.ending}} </p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

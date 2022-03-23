@@ -1,0 +1,120 @@
+page_blocks: []
+_array_structures:
+  content-blocks:
+    values:
+      - label: Hero
+        icon: star
+        value:
+          _section-type: hero
+          hero_image:
+          hero:
+      - label: Image and Textarea
+        icon: image
+        value:
+          _section-type: image-and-textarea
+          image:
+          top-tablet_image:
+          bottom-tablet_image:    
+          heading:
+          textarea:
+      - label: Projects
+        icon: work
+        value:
+          _section-type: projects
+          heading:
+          first-project:
+            image:
+            subheading:
+            textarea:
+          second-project:
+            image:
+            subheading:
+            textarea:
+          third-project:
+            image:
+            subheading:
+            textarea:
+      - label: Carousel
+        icon: money
+        value:
+          _section-type: carousel
+          heading:
+          carousel:
+          - textarea:
+            symbols:
+            ending:
+      - label: Form
+        icon: article
+        value:
+          _section-type: form
+          heading:
+          top:
+            vertical-subheading:
+            text-option-1:
+            text-option-2:
+            text-option-3:
+          bottom:
+            vertical-subheading:
+            message:
+          option-box:
+            subheading:
+            option-1:
+            option-2:
+            option-3:
+            option-4:
+hero-font:
+_select_data:
+  fonts:
+      - Amatic SC, cursive
+      - Barlow Condensed, sans-serif
+      - Belleza, sans-serif
+      - Kaushan Script, cursive
+      - Montserrat, sans-serif
+      - Oooh Baby, cursive
+      - Playfair Display, serif
+      - Poppins, sans-serif
+      - Quicksand, sans-serif
+      - Raleway, sans-serif
+      - Roboto, sans-serif
+headings-font:
+_select_data:
+  fonts:
+      - Amatic SC, cursive
+      - Barlow Condensed, sans-serif
+      - Belleza, sans-serif
+      - Kaushan Script, cursive
+      - Montserrat, sans-serif
+      - Oooh Baby, cursive
+      - Playfair Display, serif
+      - Poppins, sans-serif
+      - Quicksand, sans-serif
+      - Raleway, sans-serif
+      - Roboto, sans-serif
+subheadings-font:
+_select_data:
+  fonts:
+      - Amatic SC, cursive
+      - Barlow Condensed, sans-serif
+      - Belleza, sans-serif
+      - Kaushan Script, cursive
+      - Montserrat, sans-serif
+      - Oooh Baby, cursive
+      - Playfair Display, serif
+      - Poppins, sans-serif
+      - Quicksand, sans-serif
+      - Raleway, sans-serif
+      - Roboto, sans-serif
+text-font:
+_select_data:
+  fonts:
+      - Amatic SC, cursive
+      - Barlow Condensed, sans-serif
+      - Belleza, sans-serif
+      - Kaushan Script, cursive
+      - Montserrat, sans-serif
+      - Oooh Baby, cursive
+      - Playfair Display, serif
+      - Poppins, sans-serif
+      - Quicksand, sans-serif
+      - Raleway, sans-serif
+      - Roboto, sans-serif
